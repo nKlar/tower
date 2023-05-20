@@ -1,0 +1,1177 @@
+title:string=finalTower
+blocksBaseUrl:string=nKlar/tower/main/finalTower
+author:string=nbt2ascii
+mats:table={
+  b:string=chisel:lavastone
+  d:string=minecraft:dirt
+  l:string=HardcoreEnderExpansion:laboratory_glass
+  i:string=chisel:factoryblock
+  n:string=minecraft:nether_brick
+}
+startPoint:list=[
+  number=57
+  number=23
+  number=1
+  string=^
+]
+defaultDropPoint:list=[
+  number=28
+  number=23
+]
+levels:list=[
+  table={
+    name:string=level 1
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=46
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=267
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 2
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=46
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=267
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 3
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=34
+      minecraft:dirt:number=20
+      chisel:factoryblock:number=278
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 4
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=306
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 5
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=306
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 6
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=310
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 7
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=306
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 8
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=298
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 9
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=298
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 10
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=306
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 11
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=298
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 12
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=290
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 13
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=290
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 14
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=6
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=290
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 15
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=10
+      minecraft:dirt:number=4
+      chisel:factoryblock:number=310
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 16
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=14
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=322
+      chisel:lavastone:number=20
+    }
+  }
+  table={
+    name:string=level 17
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=22
+      minecraft:dirt:number=8
+      chisel:factoryblock:number=342
+      chisel:lavastone:number=60
+    }
+  }
+  table={
+    name:string=level 18
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=32
+      minecraft:dirt:number=6
+      chisel:factoryblock:number=402
+      chisel:lavastone:number=40
+    }
+  }
+  table={
+    name:string=level 19
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=38
+      minecraft:dirt:number=2
+      chisel:factoryblock:number=440
+    }
+  }
+  table={
+    name:string=level 20
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=38
+      minecraft:dirt:number=10
+      chisel:factoryblock:number=288
+    }
+  }
+  table={
+    name:string=level 21
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=60
+      chisel:factoryblock:number=367
+    }
+  }
+  table={
+    name:string=level 22
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=20
+      minecraft:dirt:number=44
+      chisel:factoryblock:number=319
+    }
+  }
+  table={
+    name:string=level 23
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=20
+      chisel:factoryblock:number=349
+    }
+  }
+  table={
+    name:string=level 24
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=20
+      chisel:factoryblock:number=352
+    }
+  }
+  table={
+    name:string=level 25
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=20
+      minecraft:dirt:number=2
+      chisel:factoryblock:number=352
+    }
+  }
+  table={
+    name:string=level 26
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=22
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=352
+    }
+  }
+  table={
+    name:string=level 27
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=24
+      minecraft:dirt:number=2
+      chisel:factoryblock:number=364
+    }
+  }
+  table={
+    name:string=level 28
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=26
+      chisel:factoryblock:number=364
+    }
+  }
+  table={
+    name:string=level 29
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=28
+      minecraft:dirt:number=16
+      chisel:factoryblock:number=374
+    }
+  }
+  table={
+    name:string=level 30
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=34
+      minecraft:dirt:number=2
+      chisel:factoryblock:number=376
+    }
+  }
+  table={
+    name:string=level 31
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=22
+      minecraft:dirt:number=2
+      chisel:factoryblock:number=386
+    }
+  }
+  table={
+    name:string=level 32
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=26
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=1672
+    }
+  }
+  table={
+    name:string=level 33
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=30
+      minecraft:dirt:number=2
+      chisel:factoryblock:number=416
+    }
+  }
+  table={
+    name:string=level 34
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=36
+      chisel:factoryblock:number=416
+    }
+  }
+  table={
+    name:string=level 35
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=36
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=404
+    }
+  }
+  table={
+    name:string=level 36
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=78
+      minecraft:dirt:number=30
+      chisel:factoryblock:number=308
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 37
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=74
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=318
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 38
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=2
+      chisel:factoryblock:number=426
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 39
+    blocks:string=@github
+    matCounts:table={
+      minecraft:nether_brick:number=2
+      chisel:factoryblock:number=426
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 40
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=588
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 41
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=324
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 42
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=324
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 43
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=24
+      chisel:factoryblock:number=330
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 44
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=82
+      chisel:factoryblock:number=450
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 45
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=86
+      chisel:factoryblock:number=370
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 46
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=68
+      chisel:factoryblock:number=496
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 47
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=596
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 48
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=278
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 49
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 50
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 51
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 52
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 53
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 54
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 55
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 56
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 57
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=260
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 58
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=474
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 59
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=32
+      chisel:factoryblock:number=280
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 60
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=290
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 61
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=296
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 62
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=302
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 63
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=308
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 64
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=414
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 65
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=286
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 66
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=298
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 67
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=280
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 68
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=280
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 69
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=292
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 70
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=60
+      chisel:factoryblock:number=284
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 71
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=42
+      chisel:factoryblock:number=242
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 72
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=254
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 73
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=236
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 74
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=236
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 75
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=248
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 76
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=230
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 77
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=230
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 78
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=242
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 79
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=224
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 80
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=224
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 81
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=236
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 82
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=218
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 83
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=306
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 84
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=14
+      chisel:factoryblock:number=236
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 85
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=32
+      chisel:factoryblock:number=232
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 86
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=32
+      chisel:factoryblock:number=222
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 87
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=74
+      chisel:factoryblock:number=228
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 88
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=74
+      chisel:factoryblock:number=202
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 89
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=210
+      HardcoreEnderExpansion:laboratory_glass:number=36
+    }
+  }
+  table={
+    name:string=level 90
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=18
+      chisel:factoryblock:number=172
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 91
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 92
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 93
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 94
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 95
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 96
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 97
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 98
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 99
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 100
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 101
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 102
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 103
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 104
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 105
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 106
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 107
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 108
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 109
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 110
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 111
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 112
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 113
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 114
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 115
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 116
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 117
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 118
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 119
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=164
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 120
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=160
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 121
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=44
+      chisel:factoryblock:number=156
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 122
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=28
+      chisel:factoryblock:number=184
+      HardcoreEnderExpansion:laboratory_glass:number=48
+    }
+  }
+  table={
+    name:string=level 123
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=12
+      chisel:factoryblock:number=270
+    }
+  }
+  table={
+    name:string=level 124
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=72
+      chisel:factoryblock:number=218
+    }
+  }
+  table={
+    name:string=level 125
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=128
+      chisel:factoryblock:number=256
+    }
+  }
+  table={
+    name:string=level 126
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=1444
+    }
+  }
+  table={
+    name:string=level 127
+    blocks:string=@github
+    matCounts:table={
+      minecraft:dirt:number=103
+      chisel:factoryblock:number=144
+    }
+  }
+  table={
+    name:string=level 128
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+  table={
+    name:string=level 129
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+  table={
+    name:string=level 130
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+  table={
+    name:string=level 131
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+  table={
+    name:string=level 132
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+  table={
+    name:string=level 133
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+  table={
+    name:string=level 134
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+  table={
+    name:string=level 135
+    blocks:string=@github
+    matCounts:table={
+      chisel:factoryblock:number=80
+    }
+  }
+]
