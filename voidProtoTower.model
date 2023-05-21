@@ -5,7 +5,7 @@ mats:table={
   b:string=chisel:lavastone
   d:string=minecraft:dirt
   l:string=HardcoreEnderExpansion:laboratory_glass
-  i:string=chisel:factory_block
+  i:string=chisel:factoryblock
   n:string=minecraft:nether_brick
 }
 startPoint:list=[
@@ -24,7 +24,7 @@ levels:list=[
     blocks:string=@github
     matCounts:table={
       minecraft:nether_brick:number=12
-      chisel:factory_block:number=41
+      chisel:factoryblock:number=41
       chisel:lavastone:number=2
     }
   }
@@ -33,7 +33,7 @@ levels:list=[
     blocks:string=@github
     matCounts:table={
       minecraft:nether_brick:number=2
-      chisel:factory_block:number=45
+      chisel:factoryblock:number=45
       HardcoreEnderExpansion:laboratory_glass:number=6
       chisel:lavastone:number=2
     }
@@ -43,7 +43,7 @@ levels:list=[
     blocks:string=@github
     matCounts:table={
       minecraft:nether_brick:number=3
-      chisel:factory_block:number=43
+      chisel:factoryblock:number=43
       chisel:lavastone:number=3
       HardcoreEnderExpansion:laboratory_glass:number=8
     }
@@ -52,7 +52,7 @@ levels:list=[
     name:string=level 4
     blocks:string=@github
     matCounts:table={
-      chisel:factory_block:number=53
+      chisel:factoryblock:number=53
       HardcoreEnderExpansion:laboratory_glass:number=8
     }
   }
@@ -60,7 +60,7 @@ levels:list=[
     name:string=level 5
     blocks:string=@github
     matCounts:table={
-      chisel:factory_block:number=61
+      chisel:factoryblock:number=61
       HardcoreEnderExpansion:laboratory_glass:number=4
     }
   }
@@ -69,7 +69,7 @@ levels:list=[
     blocks:string=@github
     matCounts:table={
       minecraft:dirt:number=13
-      chisel:factory_block:number=51
+      chisel:factoryblock:number=51
     }
   }
   table={
@@ -84,14 +84,14 @@ levels:list=[
     blocks:string=@github
     matCounts:table={
       minecraft:dirt:number=28
-      chisel:factory_block:number=32
+      chisel:factoryblock:number=32
     }
   }
   table={
     name:string=level 9
     blocks:string=@github
     matCounts:table={
-      chisel:factory_block:number=32
+      chisel:factoryblock:number=32
     }
   }
 ]
