@@ -2,15 +2,15 @@ title:string=finalTower
 blocksBaseUrl:string=nKlar/tower/main/finalTower
 author:string=nbt2ascii
 mats:table={
-  b:string=chisel:lavastone
-  d:string=minecraft:dirt
-  l:string=HardcoreEnderExpansion:laboratory_glass
-  i:string=chisel:factoryblock
-  n:string=minecraft:nether_brick
+  135:string=chisel:lavastone
+  3:string=minecraft:dirt
+  21:string=HardcoreEnderExpansion:laboratory_glass
+  112:string=minecraft:nether_brick
+  74:string=chisel:factoryblock
 }
 startPoint:list=[
-  number=57
-  number=23
+  number=-1
+  number=-1
   number=1
   string=^
 ]
