@@ -9,7 +9,6 @@ local sides = require("sides")
 local util = require("util")
 local serializer = require("serializer")
 local internet = require("internet")
-local modem = component.modem
 local os = require("os")
 local robot
 local ic
