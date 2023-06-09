@@ -184,15 +184,13 @@ function Builder:downloadLevel(l)
   -- remove it before downloading, for more memory..
   l._model._downloadedBlocks = nil
   -- yield to help gc?
-  if os.sleep then
-    for _=1,10 do os.sleep(0) end
-  end
+  self:freeMemory()
   
   print("Downloading blocks for level " .. l.num)
   local data = internet.request("https://raw.githubusercontent.com/" .. l._model.blocksBaseUrl
   .. "/" .. string.format("%03d", l.num-1) .. "?" .. math.random())
   
-  local tmpFile = io.open("/tmp/builder_model_tmp", "w")
+  local tmpFile = io.open("/home/oclib/builder_model_tmp", "w")
   print(tmpFile)
   for chunk in data do
     tmpFile:write(chunk)
@@ -200,11 +198,11 @@ function Builder:downloadLevel(l)
   tmpFile:flush()
   tmpFile:close()
   print("Blocks downloaded, parsing...")
-  if os.sleep then
-    os.sleep(0)
-  end
   
-  l._model._downloadedBlocks = { blocks = serializer.deserializeFile("/tmp/builder_model_tmp"), forLevel = l.num }
+  self:freeMemory()
+  
+  l._model._downloadedBlocks = { blocks = serializer.deserializeFile("/home/oclib/builder_model_tmp"), forLevel = l.num }
+  print(#l._model._downloadedBlocks.blocks.level)
 end
 
 function Builder:iterate()
@@ -458,6 +456,15 @@ function Builder:dumpInventoryAndResupply()
   return false
 end
 
+function Builder:freeMemory()
+  local result = 0
+  for i = 1, 10 do
+    result = math.max(result, computer.freeMemory())
+    os.sleep(0)
+  end
+  return result
+end
+
 function builder.new(o)
   o = o or {}
   builder.require()
@@ -469,6 +476,7 @@ end
 
 function builder.require()
   robot = require("robot")
+  computer = require("computer")
   ic = component.inventory_controller
 end
 
